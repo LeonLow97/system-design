@@ -19,7 +19,7 @@
 | Topic                          | Checkbox |
 | ------------------------------ | -------- |
 | Caching                        | [X]      |
-| Distributed Caching            | [ ]      |
+| Distributed Caching            | [X]      |
 | Content Delivery Network (CDN) | [X]      |
 | Database Index                 | [ ]      |
 | Rate Limiting                  | [ ]      |
@@ -76,5 +76,3 @@
 | Consistent Hashing                  | [ ]      |
 | Bloom Filters                       | [ ]      |
 | Checksum                            | [ ]      |
-
-I am going to pass you content each time and you are going to return me primary bullet points as I am writing system design notes, I don't want repetitive points. The topic is "Caching"
