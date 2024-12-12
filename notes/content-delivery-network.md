@@ -33,7 +33,7 @@
 
 - **Reduce page load time**
   - Website traffic can decrease if your page load times are too slow.
-  - A CDN can reduce bounce rates and increase the time users spend on your site.
+  - A CDN can reduce bounce rates (users clicking away from your website) and increase the time users spend on your site.
 - **Reduce bandwidth costs**
   - Bandwidth costs are a significant expense because every incoming website request consumes network bandwidth.
   - Through caching and other optimizations, CDNs can reduce the amount of data an origin server must provide, reducing the costs of hosting for website owners.

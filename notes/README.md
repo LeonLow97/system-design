@@ -21,8 +21,8 @@
 | Caching                        | ✅       |
 | Distributed Caching            | ✅       |
 | Content Delivery Network (CDN) | ✅       |
-| Database Index                 | ✅       |
-| Rate Limiting                  |          |
+| Database Index                 |          |
+| Rate Limiting                  | ✅       |
 | Latency vs Throughput          |          |
 | Load Balancing                 |          |
 

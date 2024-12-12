@@ -43,7 +43,7 @@
 
 # Cache Invalidation
 
-- Cache Invalidation is the process of marking cache entries as invalid and removing or replacing them.
+- Cache Invalidation is the **process of marking cache entries as invalid and removing or replacing them**.
 - Necessary when data is modified to prevent serving stale or incorrect data.
 - 3 types of cache invalidation strategies: (i) Write-Through Cache, (ii) Write-Around Cache, (iii) Write-Back Cache
 
@@ -73,7 +73,7 @@
 
 # Cache Eviction
 
-- The process of removing items from a cache to free up space for new data.
+- The process of **removing items from a cache** to free up space for new data.
 
 ## Eviction Policies
 
@@ -89,6 +89,7 @@
   - Counts how often an item is used. Those that are used least often are discarded first.
 - **Random Replacement (RR)**:
   - Randomly selects a candidate item and discards it to make space when necessary.
+- **Time-To-Live (TTL)**
 
 # When Not to Use Caching?
 
